@@ -1,5 +1,8 @@
 # Mushroom
+
+
 For prediction of Mushroom We are going to use Deep Neural Network
+Library Used - Tensorflow
 The model of neural network is as following:
 Layer 1 = (INPUT*Weight) + Biases
 Then applying RELU activation Function
